@@ -7,3 +7,6 @@
 [submodule "anchor-vault"]
 	path = anchor-vault
 	url = https://github.com/Weebad123/anchor-vault
+[submodule "anchor-escrow"]
+	path = anchor-escrow
+	url = https://github.com/Weebad123/anchor-escrow.git
