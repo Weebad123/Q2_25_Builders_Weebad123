@@ -4,9 +4,9 @@
 [submodule "rust_project2"]
 	path = rust_project2
 	url = https://github.com/Weebad123/Rust-airdrop-project1
-[submodule "anchor-vault"]
-	path = anchor-vault
-	url = https://github.com/Weebad123/anchor-vault
 [submodule "anchor-escrow"]
 	path = anchor-escrow
 	url = https://github.com/Weebad123/anchor-escrow.git
+[submodule "anchor-vault"]
+	path = anchor-vault
+	url = https://github.com/Weebad123/anchor-vault.git
