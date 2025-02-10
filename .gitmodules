@@ -10,3 +10,6 @@
 [submodule "anchor-vault"]
 	path = anchor-vault
 	url = https://github.com/Weebad123/anchor-vault.git
+[submodule "anchor-marketplace"]
+	path = anchor-marketplace
+	url = https://github.com/Weebad123/anchor-marketplace.git
