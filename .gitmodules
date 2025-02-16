@@ -13,3 +13,6 @@
 [submodule "anchor-marketplace"]
 	path = anchor-marketplace
 	url = https://github.com/Weebad123/anchor-marketplace.git
+[submodule "anchor-amm-program"]
+	path = anchor-amm-program
+	url = https://github.com/Weebad123/anchor-amm.git
