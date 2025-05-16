@@ -16,3 +16,6 @@
 [submodule "anchor-amm-program"]
 	path = anchor-amm-program
 	url = https://github.com/Weebad123/anchor-amm.git
+[submodule "capstone-curachain-v2"]
+	path = capstone-curachain-v2
+	url = https://github.com/Weebad123/curachain-2.0.git
